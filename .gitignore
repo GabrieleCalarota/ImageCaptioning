@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset
+Flickr/Flickr8k_Dataset
+Flickr/Flickr8k_text
+Flickr/descriptions.txt
+Flickr/*.p
+
