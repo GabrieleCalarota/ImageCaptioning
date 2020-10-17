@@ -128,9 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+#Notebook
+tokenizer/
+checkpoints/
+test/
+model/
+
 # Dataset
 Flickr/Flickr8k_Dataset
 Flickr/Flickr8k_text
 Flickr/descriptions.txt
 Flickr/*.p
-
