@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+
 #Notebook
 tokenizer/
 checkpoints/
@@ -139,3 +140,6 @@ Flickr/Flickr8k_Dataset
 Flickr/Flickr8k_text
 Flickr/descriptions.txt
 Flickr/*.p
+train2014/
+annotations/
+flickr30k_images/
